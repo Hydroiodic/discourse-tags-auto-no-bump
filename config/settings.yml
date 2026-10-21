@@ -1,0 +1,8 @@
+plugins:
+  tags_auto_no_bump_enabled:
+    client: false
+    default: false
+  tags_auto_no_bump_tags:
+    type: tag_list
+    client: false
+    default: ""
