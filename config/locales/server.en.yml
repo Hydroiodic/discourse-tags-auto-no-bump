@@ -1,4 +1,3 @@
 en:
   site_settings:
-    tags_auto_no_bump_enabled: "Enable the tags auto no-bump plugin."
-    tags_auto_no_bump_tags: "New replies cannot bump topics with these tags."
+    tags_suppressed_from_latest: "Suppress tags from latest topics page."

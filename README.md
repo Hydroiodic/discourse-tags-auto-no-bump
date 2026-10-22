@@ -1,6 +1,6 @@
-# tags-auto-no-bump
+# discourse-tags-suppressed
 
-带有指定标签的话题，新回复将不顶帖。
+在最新话题页面中隐藏带有指定标签的话题。行为和官方插件 [discourse-categories-suppressed](https://github.com/discourse/discourse-categories-suppressed) 一致，只是过滤对象从分类换成了标签。
 
 ## 安装
 
@@ -8,5 +8,4 @@
 
 ## 设置
 
-- `tags_auto_no_bump_enabled`：总开关，默认关闭。关闭后所有话题照常顶帖。
-- `tags_auto_no_bump_tags`：标签列表，默认为空。
+- `tags_suppressed_from_latest`：标签列表，默认为空，为空时不过滤。

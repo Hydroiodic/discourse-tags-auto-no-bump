@@ -1,4 +1,3 @@
 zh_CN:
   site_settings:
-    tags_auto_no_bump_enabled: "启用按标签禁止顶帖插件"
-    tags_auto_no_bump_tags: "带有这些标签的话题禁止顶帖"
+    tags_suppressed_from_latest: "在最新话题页面中隐藏带有这些标签的话题。"
